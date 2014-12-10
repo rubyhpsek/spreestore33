@@ -18,7 +18,6 @@
 #ignore .env files
 /*.env
 
-/config/database.yml
 
 /config/initializers/env.rb
 
